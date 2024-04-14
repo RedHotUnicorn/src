@@ -19,7 +19,7 @@ tags:
 settings: []
 title: 11 убеждений, которые изменили мою жизнь
 ---
-
+![](https://www.youtube.com/watch?v=OUNWbsj3ynA)
 # Description 
 11 убеждений, которые изменили мою жизнь
 
