@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "redhotunicorn.github.io/digital-garden.source-footprints",
+    baseUrl: "redhotunicorn.github.io/src-footprints",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
