@@ -37,7 +37,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       const gold_link = fileData.frontmatter?.gold_link
       if (gold_link != null) {
-        const display_gold_link = '<a href="' + gold_link+ '">Source</a>'
+        const display_gold_link = 'Source: ' + gold_link+ ''
         segments.push(display_gold_link)
       }
 
