@@ -33,6 +33,16 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
       }
 
+      // Display source if enabled
+
+      const gold_link = fileData.frontmatter?.gold_link
+      if (gold_link != null) {
+        const display_gold_link = "[Source](" + gold_link +")"
+        segments.push(display_gold_link)
+      }
+
+
+
       // Display reading time if enabled
       if (options.showReadingTime) {
         const { minutes, words: _words } = readingTime(text)
