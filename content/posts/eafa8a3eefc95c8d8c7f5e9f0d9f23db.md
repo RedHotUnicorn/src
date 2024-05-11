@@ -1,6 +1,4 @@
 ---
-aliases:
-- https://microsoft.github.io/lida/
 title: 'LIDA | LIDA: Automated Visualizations with LLMs'
 date: 2023-08-30
 src_link: https://www.notion.so/LIDA-LIDA-Automated-Visualizations-with-LLMs-5723ff7f13b74067822a401564e34761

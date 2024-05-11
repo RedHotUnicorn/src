@@ -1,6 +1,4 @@
 ---
-aliases:
-- https://www.getlago.com/
 title: Lago - Open Source Metering & Usage-Based Billing
 date: 2023-08-09
 src_link: https://www.notion.so/Lago-Open-Source-Metering-Usage-Based-Billing-7041f1ba8a364ec3ad2722dc8a40be86

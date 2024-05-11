@@ -1,6 +1,4 @@
 ---
-aliases:
-- https://github.com/obsei/obsei
 title: 'GitHub - obsei/obsei: Obsei is a low code AI powered automation tool. It can
   be used in various business flows like social listening, AI based alerting, brand
   image analysis, comparative study and more .'

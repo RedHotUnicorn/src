@@ -1,7 +1,4 @@
 ---
-aliases:
-- https://t.me/careerwithh/4437?embed=1&mode=tme
-- https://t.me/careerwithh/4437
 title: Как понять что собеседование прошло хорошо Отвечает эксперт ЭйчАлександр Фарберов
   Advertising partner manager в eBay   Невербальные знаки Ваш собеседн
 date: 2023-08-28

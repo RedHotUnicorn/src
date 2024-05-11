@@ -1,6 +1,4 @@
 ---
-aliases:
-- https://github.com/MaartenGr/BERTopic/issues/540
 title: 'Ideal document length and special character handling · Issue #540 · MaartenGr/BERTopic
   · GitHub'
 date: 2023-09-25

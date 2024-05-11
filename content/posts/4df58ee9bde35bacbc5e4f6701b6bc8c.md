@@ -1,7 +1,4 @@
 ---
-aliases:
-- https://t.me/careerwithh/4332?embed=1&mode=tme
-- https://t.me/careerwithh/4332
 title: ЭйчForwarded from SETTERS Media человек с хорошим резюме получает отказ отвечает
   Ольга Романова консультант по карьере менеджер по работе с молодыми т
 date: 2023-08-29

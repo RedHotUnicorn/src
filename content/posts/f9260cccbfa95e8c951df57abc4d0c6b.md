@@ -1,6 +1,4 @@
 ---
-aliases:
-- https://vispunk.com/
 title: Vispunk Motion
 date: 2023-08-30
 src_link: https://www.notion.so/Vispunk-3602fd71194a479f8a9e0c38ac832c8d

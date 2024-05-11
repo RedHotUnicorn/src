@@ -1,7 +1,4 @@
 ---
-aliases:
-- https://t.me/rtdlinks/3496
-- https://t.me/rtdlinks/3496?embed=1&mode=tme
 title: RTD Ссылки и репостыForwarded from ProductSenseВанильный продактменеджмент
   5 смертных грехов которые угробят и вас и ваш продуктСпикер Илья Забелин  В
 date: 2023-10-19

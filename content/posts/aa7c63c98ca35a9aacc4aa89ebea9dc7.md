@@ -1,6 +1,4 @@
 ---
-aliases:
-- https://github.com/dylanhogg/awesome-python
 title: "GitHub - dylanhogg/awesome-python: \U0001F40D Hand-picked awesome Python libraries
   and frameworks, organised by category"
 date: 2023-10-26

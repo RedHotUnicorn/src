@@ -1,7 +1,4 @@
 ---
-aliases:
-- https://miro.com/app/board/uXjVMyTYOL0=/?moveToWidget=3458764560467737055&amp;cot=14
-- https://miro.com/app/board/uXjVMyTYOL0=/?moveToWidget=3458764560467737055&cot=14
 title: Miro
 date: 2023-10-19
 src_link: https://www.notion.so/BI-Leader-Ramble-f136f8f7423244bcb526a0f53b891494

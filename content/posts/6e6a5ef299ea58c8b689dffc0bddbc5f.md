@@ -1,7 +1,4 @@
 ---
-aliases:
-- https://blog.count.co/the-ultimate-sql-guide/
-- https://count.co/blog/the-ultimate-sql-guide
 title: The Ultimate SQL Guide
 date: 2023-08-09
 src_link: https://www.notion.so/The-Ultimate-SQL-Guide-ceb2be873f0a435ca59e107458e4cf5d

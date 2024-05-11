@@ -1,6 +1,4 @@
 ---
-aliases:
-- https://github.com/ArthurFDLR/whisper-youtube
 title: "GitHub - ArthurFDLR/whisper-youtube: \U0001F509 Youtube Videos Transcription
   with OpenAI's Whisper"
 date: 2023-11-05

@@ -1,6 +1,4 @@
 ---
-aliases:
-- https://github.com/natelandau/obsidian-metadata
 title: 'GitHub - natelandau/obsidian-metadata: Batch updates to metadata in an Obsidian
   vault'
 date: 2023-09-01

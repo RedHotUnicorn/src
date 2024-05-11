@@ -1,7 +1,4 @@
 ---
-aliases:
-- https://habr.com/ru/companies/selectel/articles/767076/
-- https://habr.com/ru/companies/selectel/articles/767076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767076
 title: Как «воспитать ламу» и ускорить ML-эксперименты / Хабр
 date: 2023-10-27
 src_link: https://www.notion.so/ML-7092cd8f900b481aacf6cb8d861d622f

@@ -1,7 +1,4 @@
 ---
-aliases:
-- https://t.me/dashboardets/678?embed=1&mode=tme
-- https://t.me/dashboardets/678
 title: Всем привет  Приглашаю на бесплатный вебинар 130923 в 1900 мск на тему  Как
   снять ТЗ с заказчика и отрисовать макет за 30 минут в Online  Меня часто н
 date: 2023-09-20
