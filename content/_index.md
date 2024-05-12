@@ -1,1 +1,5 @@
-Hello world!
+---
+title: "🧑‍🌾 Digital Garden / Source footprints"
+---
+
+[[posts]]
